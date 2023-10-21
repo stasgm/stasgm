@@ -1,4 +1,6 @@
-- 👋 Hi, I’m Stanislau
+- 👋 Hi, I’m Stanislaǔ
+- I love ❤️ coding
+- Open for 🙌🤝 cooperation 
 
 <!---
 stasgm/stasgm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
